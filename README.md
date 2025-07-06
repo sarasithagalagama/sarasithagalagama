@@ -30,7 +30,7 @@ I specialize in building full-stack web applications and enjoy solving real-worl
 Personal finance management tool with expense tracking and budget planning features.
 - **Tech Stack:** Spring Boot, React, PostgreSQL
 - **Features:** Expense tracking, budget planning, financial reports
-- **Repo:** [View Project](https://github.com/sarasithagalagama/budget-tracker)
+- **Repo:** [View Project](https://github.com/sarasithagalagama/personal-budget-tracker)
 
 ### 📋 Project Manager
 Team task management platform for collaborative project development.
