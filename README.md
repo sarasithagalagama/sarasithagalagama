@@ -3,7 +3,7 @@
 🎓 **Undergraduate in Information Technology at SLIIT**  
 💻 Passionate Fullstack Developer and Tech Enthusiast from Sri Lanka
 
-I specialize in building full-stack web applications and enjoy solving real-world problems with code. I’m currently focusing on Spring Boot, PostgreSQL, and clean architecture practices in backend development.
+I specialize in building full-stack web applications and enjoy solving real-world problems with code. I'm currently focusing on Spring Boot, PostgreSQL, and clean architecture practices in backend development.
 
 ---
 
@@ -26,10 +26,17 @@ I specialize in building full-stack web applications and enjoy solving real-worl
 
 ## 🚀 Featured Projects
 
-| Project             | Description                             | Tech Stack               |
-|---------------------|-----------------------------------------|--------------------------|
-| **Budget Tracker**  | Personal finance management tool        | Spring Boot, React       |
-| **Project Manager** | Team task management platform           | Java, PostgreSQL         |
+### 💰 Budget Tracker
+Personal finance management tool with expense tracking and budget planning features.
+- **Tech Stack:** Spring Boot, React, PostgreSQL
+- **Features:** Expense tracking, budget planning, financial reports
+- **Repo:** [View Project](https://github.com/sarasithagalagama/budget-tracker)
+
+### 📋 Project Manager
+Team task management platform for collaborative project development.
+- **Tech Stack:** Java, PostgreSQL, Spring Boot
+- **Features:** Task assignment, progress tracking, team collaboration
+- **Repo:** [View Project](https://github.com/sarasithagalagama/project-manager)
 
 <!-- 
   To auto-update this section in future, you can use:
@@ -67,6 +74,6 @@ I specialize in building full-stack web applications and enjoy solving real-worl
 
 *Coming Soon* — Working on my personal portfolio website
 
-> _“Building real-world projects is the best way to learn.”_
+> _"Building real-world projects is the best way to learn."_
 
 ---
