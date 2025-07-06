@@ -50,7 +50,7 @@ Team task management platform for collaborative project development.
 
 ## 📊 GitHub Stats
 
-![Sarasitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&theme=default&count_private=true)
+![Sarasitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&theme=default&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&theme=default)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarasithagalagama&theme=default)](https://git.io/streak-stats)
@@ -67,6 +67,10 @@ Team task management platform for collaborative project development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarasitha-galagama)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/94712175244)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sarasithagalaga1)
+[![Credly](https://img.shields.io/badge/Credly-1A1A1A?style=flat&logo=credly&logoColor=orange)](https://www.credly.com/users/sarasitha-galagama)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sarasitha_galagama/)
 
 ---
 
