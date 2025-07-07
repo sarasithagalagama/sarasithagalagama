@@ -56,7 +56,7 @@ I specialize in building full-stack web applications and love solving real-world
 
 ---
 
-## 📈 Contribution Tracker (Dark Mode)
+## 📈 Contribution Tracker
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarasithagalagama&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
