@@ -33,6 +33,12 @@ I specialize in building full-stack web applications and love solving real-world
 
 ---
 
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=sarasithagalagama&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
 ## 📊 GitHub Stats (Dark Mode)
 
 <table>
@@ -56,9 +62,14 @@ I specialize in building full-stack web applications and love solving real-world
 
 ---
 
-## 📈 Contribution Tracker
+## 🎓 Education
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarasithagalagama&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🏫 **Ananda College, Colombo 10**  
+  *G.C.E A/L in Physical Sciences – Mathematics Stream* (2009 – 2022)  
+  Member of ICT Society and ACBU
+
+- 🎓 **SLIIT – Bachelor’s in Information Technology**  
+  *Expected Graduation: 2028*
 
 ---
 
@@ -68,7 +79,6 @@ I specialize in building full-stack web applications and love solving real-world
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/94712175244)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sarasithagalaga1)
-[![Credly](https://img.shields.io/badge/Credly-1A1A1A?style=flat&logo=credly&logoColor=orange)](https://www.credly.com/users/sarasitha-galagama)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sarasitha_galagama/)
 
 ---
