@@ -30,12 +30,7 @@ I specialize in building full-stack web applications and love solving real-world
 |--------|-------------|------------|
 | [💰 Budget Tracker](https://github.com/sarasithagalagama/personal-budget-tracker) | A personal finance management tool with expense tracking and budget planning. | Spring Boot, React, PostgreSQL |
 | [📋 Project Manager](https://github.com/sarasithagalagama/project-manager) | A team task management platform for collaborative project development. | Java, PostgreSQL, Spring Boot |
-
----
-
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=sarasithagalagama&label=Profile%20Views&color=0e75b6&style=flat)
+| [🌍 Tourism Booking Component](https://github.com/sarasithagalagama/Tourism_Platform_Booking_Component) | Component of a tourism booking platform built with Spring Boot. | Spring Boot, Java, JSP |
 
 ---
 
@@ -62,29 +57,30 @@ I specialize in building full-stack web applications and love solving real-world
 
 ---
 
-## 🎓 Education
+## 🌐 Connect with Me
 
-- 🏫 **Ananda College, Colombo 10**  
-  *G.C.E A/L in Physical Sciences – Mathematics Stream* (2009 – 2022)  
-  Member of ICT Society and ACBU
-
-- 🎓 **SLIIT – Bachelor’s in Information Technology**  
-  *Expected Graduation: 2028*
+<p align="left">
+  <a href="https://x.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/sarasitha-galagama" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/sarasitha_galagama" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://tiktok.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+</p>
 
 ---
 
-## 📬 Get in Touch
+## 🌍 Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarasitha-galagama)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/94712175244)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sarasithagalaga1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sarasitha_galagama/)
-
----
-
-## 🌐 Portfolio
-
-🎯 **Live:** [sarasithag.vercel.app](https://sarasithag.vercel.app)
+🔗 **Live Website:** [sarasithag.vercel.app](https://sarasithag.vercel.app)
 
 > _"Building real-world projects is the best way to learn."_
