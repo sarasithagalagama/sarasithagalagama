@@ -35,10 +35,24 @@ I specialize in building full-stack web applications and love solving real-world
 
 ## 📊 GitHub Stats (Dark Mode)
 
-![Sarasitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarasithagalagama&theme=tokyonight)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td align="center">
+      <b>Sarasitha Galagama's GitHub Stats</b><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <b>Most Used Languages</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&theme=dark" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>Contribution Streak</b><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=sarasithagalagama&theme=dark" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
