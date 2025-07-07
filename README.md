@@ -60,25 +60,23 @@ I specialize in building full-stack web applications and love solving real-world
 ## 🌐 Connect with Me
 
 <p align="left">
+  <a href="https://x.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter/X"/>
+  </a>
   <a href="https://linkedin.com/in/sarasitha-galagama" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/sarasitha_galagama" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" alt="Instagram"/>
   </a>
-  <a href="https://wa.me/94712175244" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" alt="YouTube"/>
   </a>
-  <a href="mailto:sarasithagalagama@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/sarasithagalaga1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.credly.com/users/sarasitha-galagama" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-1A1A1A?style=for-the-badge&logo=credly&logoColor=orange" alt="Credly"/>
+  <a href="https://www.tiktok.com/@yourhandle" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" width="40" alt="TikTok"/>
   </a>
 </p>
+
 
 ---
 
