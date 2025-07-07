@@ -3,7 +3,7 @@
 🎓 **Undergraduate in Information Technology at SLIIT**  
 💻 Passionate Fullstack Developer and Tech Enthusiast from Sri Lanka
 
-I specialize in building full-stack web applications and enjoy solving real-world problems with code. I'm currently focusing on Spring Boot, PostgreSQL, and clean architecture practices in backend development.
+I specialize in building full-stack web applications and love solving real-world problems with code. My current focus is on **Spring Boot**, **PostgreSQL**, and **clean backend architecture**.
 
 ---
 
@@ -26,40 +26,25 @@ I specialize in building full-stack web applications and enjoy solving real-worl
 
 ## 🚀 Featured Projects
 
-### 💰 Budget Tracker
-Personal finance management tool with expense tracking and budget planning features.
-- **Tech Stack:** Spring Boot, React, PostgreSQL
-- **Features:** Expense tracking, budget planning, financial reports
-- **Repo:** [View Project](https://github.com/sarasithagalagama/personal-budget-tracker)
-
-### 📋 Project Manager
-Team task management platform for collaborative project development.
-- **Tech Stack:** Java, PostgreSQL, Spring Boot
-- **Features:** Task assignment, progress tracking, team collaboration
-- **Repo:** [View Project](https://github.com/sarasithagalagama/project-manager)
-
-<!-- 
-  To auto-update this section in future, you can use:
-  https://github.com/marketplace/actions/github-profile-readme-generator
-  and replace this block with:
-  <!--START_SECTION:projects-->
-  <!--END_SECTION:projects-->
--->
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [💰 Budget Tracker](https://github.com/sarasithagalagama/personal-budget-tracker) | A personal finance management tool with expense tracking and budget planning. | Spring Boot, React, PostgreSQL |
+| [📋 Project Manager](https://github.com/sarasithagalagama/project-manager) | A team task management platform for collaborative project development. | Java, PostgreSQL, Spring Boot |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark Mode)
 
-![Sarasitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&theme=default&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&theme=default)
+![Sarasitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarasithagalagama&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarasithagalagama&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## 📈 Contribution Tracker
+## 📈 Contribution Tracker (Dark Mode)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarasithagalagama&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarasithagalagama&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -74,10 +59,8 @@ Team task management platform for collaborative project development.
 
 ---
 
-## 📌 Portfolio
+## 🌐 Portfolio
 
-*Coming Soon* — Working on my personal portfolio website
+🎯 **Live:** [sarasithag.vercel.app](https://sarasithag.vercel.app)
 
 > _"Building real-world projects is the best way to learn."_
-
----
