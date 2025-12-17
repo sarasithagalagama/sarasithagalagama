@@ -1,8 +1,6 @@
-![Header](profile_header_banner.png)
+![Header](banner.png)
 
 # 👋 Hi, I'm Sarasitha Galagama
-
-![Visitor Count](https://profile-counter.glitch.me/sarasithagalagama/count.svg)
 
 🎓 **Undergraduate in Information Technology (Information Systems Engineering) at SLIIT**
 💻 **Aspiring Full‑Stack Developer | Backend‑Focused | Data‑Driven Thinker**
@@ -10,7 +8,7 @@
 
 I build **scalable, real‑world software solutions** with a strong focus on **clean backend architecture**, APIs, and data‑driven systems. I enjoy turning complex requirements into simple, maintainable applications.
 
-My current focus areas include **Spring Boot**, **PostgreSQL**, **RESTful APIs**, and **Power BI dashboards**.
+My current focus areas include **Spring Boot**, **Next.js**, **PostgreSQL**, and **Power BI dashboards**.
 
 ---
 
@@ -29,13 +27,18 @@ My current focus areas include **Spring Boot**, **PostgreSQL**, **RESTful APIs**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔹 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -46,6 +49,8 @@ My current focus areas include **Spring Boot**, **PostgreSQL**, **RESTful APIs**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
@@ -54,7 +59,7 @@ My current focus areas include **Spring Boot**, **PostgreSQL**, **RESTful APIs**
 
 **B.Sc (Hons) in Information Technology**
 _Specializing in Information Systems Engineering_
-🏫 **SLIIT (Sri Lanka Institute of Information Technology)** | _Expected Graduation: 2026_
+🏫 **SLIIT (Sri Lanka Institute of Information Technology)** | _Expected Graduation: 2028_
 
 - **Focus:** Enterprise Application Development, Distributed Systems, Data Analytics.
 
@@ -70,12 +75,13 @@ _Specializing in Information Systems Engineering_
 
 ## 🚀 Featured Projects
 
-| Project                                | Description                                                                                       | Tech Stack                     |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 🌦️ **Weather & Air Quality Dashboard** | Real‑time Power BI dashboard using WeatherAPI with AQI classification and public‑health insights. | Power BI, DAX, Power Query     |
-| 💰 **Budget Tracker**                  | Personal finance management system with expense tracking and budgeting features.                  | Spring Boot, React, PostgreSQL |
-| 📋 **Project Manager**                 | Team task management platform supporting collaborative project workflows.                         | Java, Spring Boot, PostgreSQL  |
-| 🌍 **Tourism Booking Component**       | Backend component of a tourism booking platform built with MVC architecture.                      | Spring Boot, Java, JSP         |
+| Project                                                                                        | Description                                                                                       | Tech Stack                     |
+| :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ | :----------------------------- |
+| �️ **[The P.A.T.H](https://github.com/sarasithagalagama/The_P.A.T.H)**                         | A comprehensive digital archive of Sri Lankan political history and leadership.                   | Next.js, React, Tailwind CSS   |
+| 🚙 **[Vehicle Service System](https://github.com/sarasithagalagama/vehicle-service-system)**   | A complete management system for vehicle service centers with booking and inventory.              | Java, JSP, MySQL, CSS          |
+| 💰 **[Personal Budget Tracker](https://github.com/sarasithagalagama/personal-budget-tracker)** | Full-stack finance manager with expense tracking and statistical insights.                        | Spring Boot, React, PostgreSQL |
+| 🎨 **[Color Palette Generator](https://github.com/sarasithagalagama/color-palette-generator)** | A simple and effective tool for generating and visualizing color schemes.                         | React, JavaScript, CSS         |
+| �️ **Weather & Air Quality Dashboard**                                                         | Real‑time Power BI dashboard using WeatherAPI with AQI classification and public‑health insights. | Power BI, DAX, Power Query     |
 
 ---
 
