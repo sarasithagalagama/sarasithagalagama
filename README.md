@@ -65,14 +65,6 @@ _Specializing in Information Systems Engineering_
 
 ---
 
-## 📜 Certifications
-
-- **Oracle Certified Associate, Java SE 8 Programmer**
-- **Microsoft Certified: Azure Fundamentals**
-- **Introduction to Networks (Cisco Networking Academy)**
-
----
-
 ## 🚀 Featured Projects
 
 | Project                                                                                        | Description                                                                                       | Tech Stack                     |
