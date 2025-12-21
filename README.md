@@ -55,16 +55,6 @@ My current focus areas include **Spring Boot**, **Next.js**, **PostgreSQL**, and
 
 ---
 
-## 🎓 Education
-
-**B.Sc (Hons) in Information Technology**
-_Specializing in Information Systems Engineering_
-🏫 **SLIIT (Sri Lanka Institute of Information Technology)** | _Expected Graduation: 2028_
-
-- **Focus:** Enterprise Application Development, Distributed Systems, Data Analytics.
-
----
-
 ## 🚀 Featured Projects
 
 | Project                                                                                        | Description                                                                                       | Tech Stack                     |
