@@ -22,14 +22,6 @@ I build practical solutions across **data analytics, business analysis, full-sta
 
 ---
 
-## Quick Highlights
-
-| I Build | I Analyze | I Document |
-|---|---|---|
-| Full-stack web applications, dashboards, workflow systems, and interactive interfaces | Business data, customer behavior, sales performance, and ML outputs | Requirements, system flows, project plans, reports, and user-focused solutions |
-
----
-
 ## Professional Snapshot
 
 | Area | Details |
@@ -82,14 +74,6 @@ I build practical solutions across **data analytics, business analysis, full-sta
 | [Customer Behavior Data Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | Analyzed transactional shopping data to uncover purchasing trends, revenue insights, and customer segmentation for business recommendations. | Power BI, DAX, SQL, Python, pandas, NumPy |
 | [Sales Analysis & Performance Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard) | Interactive Power BI dashboard for sales, profit, customer behavior, payment modes, product categories, and top-selling products. | Power BI, Power Query, DAX, Data Modeling |
 | [Weather & Air Quality Power BI Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard) | Dashboard using live weather and air quality API data across Sri Lanka's Wet and Dry climatic zones, transforming JSON responses into visual insights. | Power BI, DAX, Power Query, JSON |
-
----
-
-## Creative Edge
-
-| Business Thinking | Technical Execution | Visual Communication |
-|---|---|---|
-| Understanding user needs, workflows, and decision points | Building applications, dashboards, APIs, data pipelines, and interactive interfaces | Presenting insights clearly through UI, reports, dashboards, and visual systems |
 
 ---
 
