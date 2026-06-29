@@ -2,11 +2,13 @@
 
 # Sarasitha Galagama
 
-### Data Analytics & Business Intelligence
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Data+Analytics+%26+Business+Intelligence;SQL+%7C+Power+BI+%7C+Python+%7C+Dashboards;Turning+data+into+clear+business+insights)
 
-Third-year Information Systems Engineering undergraduate focused on SQL, Power BI, Python, dashboards, and analytics projects.
+Third-year Information Systems Engineering undergraduate focused on analytics, dashboards, and data-driven decision support.
 
-[Portfolio](https://www.sarasitha.me) · [Email](mailto:sarasithagalagama@gmail.com) · [GitHub](https://github.com/sarasithagalagama)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sarasitha.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarasitha.me)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@sarasithagalagama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarasithagalagama)
 
 </div>
 
