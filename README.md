@@ -2,7 +2,7 @@
 
 # Sarasitha Galagama
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Data+Analytics+%26+Business+Intelligence;SQL+%7C+Power+BI+%7C+Python+%7C+Dashboards;Turning+data+into+clear+business+insights)
+### Data Analytics & Business Intelligence
 
 Third-year Information Systems Engineering undergraduate focused on analytics, dashboards, and data-driven decision support.
 
