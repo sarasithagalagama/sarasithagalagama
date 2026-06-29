@@ -2,7 +2,7 @@
 
 # Sarasitha Galagama
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Information+Systems+Engineering+Undergraduate;Data+Analytics+%7C+Business+Analysis+%7C+Full-Stack+Development;MERN+%7C+Next.js+%7C+Power+BI+%7C+SQL+%7C+Machine+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Information+Systems+Engineering+Undergraduate;Data+Analytics+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Python+%7C+Analytics+Projects)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sarasitha.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarasitha.me)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
@@ -18,7 +18,7 @@
 
 Third-year **BSc (Hons) Information Technology undergraduate** specializing in **Information Systems Engineering at SLIIT**.
 
-I build practical solutions across **data analytics, business analysis, full-stack development, project management, and AI-powered applications**. My work focuses on turning business problems into clean systems, dashboards, workflows, and data-driven products.
+My main focus is **Data Analytics and Business Intelligence**. I work with SQL, Power BI, Python, and modern analytics tools to turn raw data into clear insights, dashboards, and decision-support solutions. I also use my software engineering background to build practical web applications and data-driven products.
 
 ---
 
@@ -26,11 +26,10 @@ I build practical solutions across **data analytics, business analysis, full-sta
 
 | Area | Details |
 |---|---|
-| **Career Direction** | Data Analytics, Business Analysis, Full-Stack Development, BI Reporting, Product-focused Software Solutions |
-| **Best Fit** | Teams building software or data products where business context and technical execution both matter |
-| **Core Strengths** | Requirements analysis, dashboarding, data storytelling, full-stack development, documentation, team coordination |
-| **Project Experience** | E-commerce systems, analytics pipelines, Power BI dashboards, ML web apps, accessibility tools, multilingual web apps |
-| **Technical Tools** | React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, Power BI, SQL, Python, FastAPI, dbt, Airflow |
+| **Primary Focus** | Data Analytics & Business Intelligence |
+| **Supporting Strengths** | Business Analysis, SQL reporting, dashboard design, data storytelling, and full-stack project experience |
+| **Project Experience** | Analytics pipelines, Power BI dashboards, ML web apps, e-commerce systems, accessibility tools, multilingual web apps |
+| **Technical Tools** | Power BI, SQL, Python, PostgreSQL, Excel, dbt, Airflow, React, Next.js, Node.js, Express.js, MongoDB |
 
 ---
 
@@ -55,7 +54,18 @@ I build practical solutions across **data analytics, business analysis, full-sta
 
 ## Main Projects
 
-### Software, Product & Web Projects
+### Data, Analytics & Machine Learning Projects
+
+| Project | What I Built | Technologies |
+|---|---|---|
+| [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | End-to-end analytics pipeline for sales data, covering revenue trends, product performance, customer segments, regional sales, transformations, scheduling, and dashboard-ready reporting. | PostgreSQL, dbt Core, Airflow, SQL, Lightdash |
+| [Sales Analysis & Performance Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard) | Interactive Power BI dashboard for sales, profit, customer behavior, payment modes, product categories, and top-selling products. | Power BI, Power Query, DAX, Data Modeling |
+| [Customer Behavior Data Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | Analyzed transactional shopping data to uncover purchasing trends, revenue insights, and customer segmentation for business recommendations. | Power BI, DAX, SQL, Python, pandas, NumPy |
+| [LoanWise LK - Loan Eligibility Prediction](https://github.com/sarasithagalagama/LoanWise-LK) | Sri Lankan finance-focused loan eligibility prediction app with CRIB-style history, LKR inputs, district, loan purpose, risk classification, approval probability, and stakeholder analytics. | Python, scikit-learn, FastAPI, React, Tailwind CSS |
+| [Fake News Detection Model](https://github.com/sarasithagalagama/fake-news-classifier) | End-to-end fake news classifier using TF-IDF and Logistic Regression on the WELFake dataset, achieving 96.39% test accuracy and 0.9932 ROC-AUC. | Python, scikit-learn, NLTK, pandas, Streamlit |
+| [Weather & Air Quality Power BI Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard) | Dashboard using live weather and air quality API data across Sri Lanka's Wet and Dry climatic zones, transforming JSON responses into visual insights. | Power BI, DAX, Power Query, JSON |
+
+### Software & Web Projects
 
 | Project | What I Built | Technologies |
 |---|---|---|
@@ -64,25 +74,14 @@ I build practical solutions across **data analytics, business analysis, full-sta
 | [HueFlow - Accessible Brand Color Studio](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Color system tool for creating accessible brand palettes with contrast checking, reusable color systems, and a clean product-focused UI. | TypeScript, React, Accessibility, UI/UX |
 | Explore Sri Lanka With Us | High-performance travel web application showcasing Sri Lanka as a destination, with a focus on immersive UX, SEO, and full-stack performance. | React 18, Tailwind CSS, Node.js, Express.js |
 
-### Data, Analytics & Machine Learning Projects
-
-| Project | What I Built | Technologies |
-|---|---|---|
-| [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | End-to-end analytics pipeline for sales data, covering revenue trends, product performance, customer segments, regional sales, transformations, scheduling, and dashboard-ready reporting. | PostgreSQL, dbt Core, Airflow, SQL, Lightdash |
-| [LoanWise LK - Loan Eligibility Prediction](https://github.com/sarasithagalagama/LoanWise-LK) | Sri Lankan finance-focused loan eligibility prediction app with CRIB-style history, LKR inputs, district, loan purpose, risk classification, approval probability, and stakeholder analytics. | Python, scikit-learn, FastAPI, React, Tailwind CSS |
-| [Fake News Detection Model](https://github.com/sarasithagalagama/fake-news-classifier) | End-to-end fake news classifier using TF-IDF and Logistic Regression on the WELFake dataset, achieving 96.39% test accuracy and 0.9932 ROC-AUC. | Python, scikit-learn, NLTK, pandas, Streamlit |
-| [Customer Behavior Data Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | Analyzed transactional shopping data to uncover purchasing trends, revenue insights, and customer segmentation for business recommendations. | Power BI, DAX, SQL, Python, pandas, NumPy |
-| [Sales Analysis & Performance Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard) | Interactive Power BI dashboard for sales, profit, customer behavior, payment modes, product categories, and top-selling products. | Power BI, Power Query, DAX, Data Modeling |
-| [Weather & Air Quality Power BI Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard) | Dashboard using live weather and air quality API data across Sri Lanka's Wet and Dry climatic zones, transforming JSON responses into visual insights. | Power BI, DAX, Power Query, JSON |
-
 ---
 
 ## What I Bring
 
-- Ability to connect business requirements with practical technical solutions
-- Experience across full-stack development, data analytics, BI reporting, and ML applications
-- Strong documentation, dashboarding, data storytelling, and system analysis skills
-- Project work covering customer-facing products, admin workflows, analytics pipelines, and decision-support dashboards
+- Strong focus on analytics, dashboards, reporting, and business insight generation
+- Experience with SQL, Power BI, Python, data cleaning, data visualization, and ML-based projects
+- Ability to understand business requirements and translate them into useful technical solutions
+- Software engineering background that supports end-to-end data and web product development
 
 ---
 
