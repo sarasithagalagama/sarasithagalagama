@@ -8,6 +8,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@sarasithagalagama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarasithagalagama)
 
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Animated contribution graph" width="720" />
+
 </div>
 
 ---
@@ -24,7 +26,7 @@ I build practical solutions across **data analytics, business analysis, full-sta
 
 | I Build | I Analyze | I Document |
 |---|---|---|
-| Full-stack web applications, dashboards, and workflow systems | Business data, customer behavior, sales performance, and ML outputs | Requirements, system flows, project plans, reports, and user-focused solutions |
+| Full-stack web applications, dashboards, workflow systems, and interactive interfaces | Business data, customer behavior, sales performance, and ML outputs | Requirements, system flows, project plans, reports, and user-focused solutions |
 
 ---
 
@@ -35,7 +37,7 @@ I build practical solutions across **data analytics, business analysis, full-sta
 | **Career Direction** | Data Analytics, Business Analysis, Full-Stack Development, BI Reporting, Product-focused Software Solutions |
 | **Best Fit** | Teams building software or data products where business context and technical execution both matter |
 | **Core Strengths** | Requirements analysis, dashboarding, data storytelling, full-stack development, documentation, team coordination |
-| **Project Experience** | E-commerce systems, analytics pipelines, Power BI dashboards, ML web apps, accessibility tools, multilingual web apps |
+| **Project Experience** | E-commerce systems, analytics pipelines, Power BI dashboards, ML web apps, accessibility tools, multilingual web apps, interactive frontend games |
 | **Technical Tools** | React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, Power BI, SQL, Python, FastAPI, dbt, Airflow |
 
 ---
@@ -69,6 +71,7 @@ I build practical solutions across **data analytics, business analysis, full-sta
 | [The P.A.T.H. - Political Alignment Testing Hub](https://github.com/sarasithagalagama/The_P.A.T.H) | Production-ready trilingual political compass web app for Sri Lanka with economic/social axis scoring and localized result matching. | Next.js 16, Tailwind CSS v4, Chart.js, next-intl, Vercel OG, Shadcn/UI |
 | [HueFlow - Accessible Brand Color Studio](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Color system tool for creating accessible brand palettes with contrast checking, reusable color systems, and a clean product-focused UI. | TypeScript, React, Accessibility, UI/UX |
 | Explore Sri Lanka With Us | High-performance travel web application showcasing Sri Lanka as a destination, with a focus on immersive UX, SEO, and full-stack performance. | React 18, Tailwind CSS, Node.js, Express.js |
+| Classic Arcade Maze Game | Interactive browser game with grid-based movement, collectible items, enemy behavior, collision handling, and a retro-style game interface. | JavaScript, HTML, CSS, Game Logic |
 
 ### Data, Analytics & Machine Learning Projects
 
@@ -87,14 +90,14 @@ I build practical solutions across **data analytics, business analysis, full-sta
 
 | Business Thinking | Technical Execution | Visual Communication |
 |---|---|---|
-| Understanding user needs, workflows, and decision points | Building applications, dashboards, APIs, and data pipelines | Presenting insights clearly through UI, reports, and dashboards |
+| Understanding user needs, workflows, and decision points | Building applications, dashboards, APIs, data pipelines, and interactive interfaces | Presenting insights clearly through UI, reports, dashboards, and visual systems |
 
 ---
 
 ## What I Bring
 
 - Ability to connect business requirements with practical technical solutions
-- Experience across full-stack development, data analytics, BI reporting, and ML applications
+- Experience across full-stack development, data analytics, BI reporting, ML applications, and interactive frontend projects
 - Strong documentation, dashboarding, data storytelling, and system analysis skills
 - Project work covering customer-facing products, admin workflows, analytics pipelines, and decision-support dashboards
 
