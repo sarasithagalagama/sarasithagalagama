@@ -2,109 +2,169 @@
 
 # Hi, I'm Sarasitha Galagama 👋
 
-### Information Systems Engineering Undergraduate | Business & Data Analytics | Full-Stack Development
+### Information Systems Engineering Undergraduate | Data Analytics | Business Analysis | Full-Stack Development
 
 I build practical software, analytics dashboards, and data-driven systems that solve real business problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sarasitha.me-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarasitha.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarasitha%20Galagama-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-sarasithagalagama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
+<p>
+  <a href="https://www.sarasitha.me">
+    <img src="https://img.shields.io/badge/Portfolio-sarasitha.me-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sarasithagalagama@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sarasithagalagama">
+    <img src="https://img.shields.io/badge/GitHub-@sarasithagalagama-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm a second-year **BSc (Hons) Information Technology undergraduate specialising in Information Systems Engineering at SLIIT**.  
-My interests are mainly focused on **Business Analysis, Data Analytics, Software Engineering, Project Management, and AI-powered applications**.
+I'm a **third-year BSc (Hons) Information Technology undergraduate** specializing in **Information Systems Engineering at SLIIT**.
 
-I enjoy working on projects that combine technical development with real business value, such as dashboards, automation systems, web applications, data pipelines, and intelligent mobile apps.
+My main interests are **Data Analytics, Business Intelligence, Business Analysis, Software Engineering, Project Management, and AI-powered applications**. I enjoy building projects that connect technical development with real business value, including dashboards, full-stack systems, data pipelines, automation workflows, and intelligent mobile applications.
 
 ---
 
-## What I'm Currently Working On
+## 🎯 Current Focus
 
-- Building data analytics and business intelligence projects using **Power BI, SQL, PostgreSQL, dbt, and Airflow**
+- Building stronger **data analytics** and **business intelligence** projects
+- Working with **Power BI, SQL, PostgreSQL, dbt, and Airflow**
+- Developing full-stack applications using **React, Node.js, Express.js, MongoDB, and PostgreSQL**
 - Improving my skills in **Business Analysis, Project Management, and Software Engineering**
-- Developing full-stack projects with **React, Node.js, Express.js, MongoDB, and PostgreSQL**
-- Exploring AI-powered applications using **Gemini API, Machine Learning, OCR, and automation tools**
+- Exploring practical AI integrations using **Gemini API, OCR, machine learning, and automation tools**
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Programming & Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,flutter,html,css" alt="Languages and Frameworks" />
+</p>
 
-### Databases & Data Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+### Databases & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" alt="Databases" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,railway" alt="Tools and Platforms" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-### Sales Analytics Pipeline
-A modern analytics engineering project using **PostgreSQL, dbt Core, Airflow, and BI dashboards** to transform raw sales data into business insights.
+<table>
+<tr>
+<td width="50%">
 
-**Key areas:** Data modeling, SQL analytics, ETL pipeline, business reporting  
-[View Project](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline)
+### 🔹 Sales Analytics Pipeline
+A modern analytics engineering project using **PostgreSQL, dbt Core, Airflow, and BI workflows** to transform raw sales data into meaningful business insights.
 
----
+**Tech:** PostgreSQL, SQL, dbt, Airflow  
+[View Repository](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline)
 
-### Sales Dashboard
-An interactive **Power BI dashboard** for analyzing sales performance, profitability, customer behavior, product trends, and payment modes.
+</td>
+<td width="50%">
 
-**Key areas:** Power BI, DAX, data visualization, business insights  
+### 🔹 Sales Dashboard
+An interactive **Power BI dashboard** for analyzing sales performance, profitability, customer behavior, payment modes, and product trends.
+
+**Tech:** Power BI, DAX, Data Visualization  
 [View Repository](https://github.com/sarasithagalagama/Sales-Dashboard)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### LoanWise LK
-A loan eligibility prediction system focused on helping users understand loan approval possibilities using machine learning.
+### 🔹 LoanWise LK
+A machine learning-based project focused on predicting **loan eligibility** and supporting smarter financial decision-making.
 
-**Key areas:** Machine Learning, prediction models, data preprocessing, financial analytics  
+**Tech:** Python, Machine Learning, Data Preprocessing  
 [View Project](https://www.sarasitha.me/projects/loanwise-lk-loan-eligibility-prediction)
 
----
+</td>
+<td width="50%">
 
-### HueFlow
-An accessible brand color studio for creating and testing color palettes with better usability and accessibility.
+### 🔹 HueFlow
+An accessible brand color studio designed to help users build and test **usable, accessible color palettes**.
 
-**Key areas:** Frontend development, UI/UX, accessibility, color systems  
+**Tech:** Frontend Development, UI/UX, Accessibility  
 [View Project](https://www.sarasitha.me/projects/hueflow-accessible-brand-color-studio)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔹 Methsara Publications Webstore
+A MERN-based e-commerce web application for an educational publishing business with modules for products, orders, suppliers, inventory, and promotions.
+
+**Tech:** React, Node.js, Express.js, MongoDB
+
+</td>
+<td width="50%">
+
+### 🔹 Aayu Smart Care
+A patient-focused medicine guidance mobile application with OCR-based prescription scanning, reminders, medicine schedules, and multilingual support.
+
+**Tech:** Flutter, Firebase, OCR, Gemini API
+
+</td>
+</tr>
+</table>
+
 ---
 
-### Methsara Publications Webstore
-A MERN-based e-commerce web application developed for an educational publishing business, including user management, product catalogue, orders, suppliers, inventory, and promotions.
+## 📊 GitHub Activity
 
-**Key areas:** MERN stack, system analysis, documentation, diagrams, role-based dashboards
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <strong>Focus Areas</strong><br />
+  Data Analytics<br />Business Analysis<br />Full-Stack Development
+</td>
+<td align="center" width="33%">
+  <strong>Project Types</strong><br />
+  Dashboards<br />Web Applications<br />Data Pipelines
+</td>
+<td align="center" width="33%">
+  <strong>Learning Path</strong><br />
+  BI Tools<br />Analytics Engineering<br />AI Integration
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Dynamic GitHub stat images were removed to avoid broken image previews when external stat services are unavailable or rate-limited. -->
 
 ---
 
-## Areas I’m Interested In
+## 💡 Areas I’m Interested In
 
 - Business Analysis
 - Data Analytics & Business Intelligence
@@ -116,28 +176,16 @@ A MERN-based e-commerce web application developed for an educational publishing 
 
 ---
 
-## GitHub Stats
+## 🤝 Connect With Me
 
-<div align="center">
-
-![Sarasitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&hide_border=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
-## Connect With Me
-
-- Portfolio: [sarasitha.me](https://www.sarasitha.me)
-- Email: [sarasithagalagama@gmail.com](mailto:sarasithagalagama@gmail.com)
-- GitHub: [@sarasithagalagama](https://github.com/sarasithagalagama)
+- 🌐 Portfolio: [sarasitha.me](https://www.sarasitha.me)
+- 📧 Email: [sarasithagalagama@gmail.com](mailto:sarasithagalagama@gmail.com)
+- 💻 GitHub: [@sarasithagalagama](https://github.com/sarasithagalagama)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile 🚀
 
 </div>
