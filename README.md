@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@sarasithagalagama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarasithagalagama)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sarasithagalagama&label=Profile%20Views&color=58A6FF&style=flat-square)
-
 </div>
 
 ---
@@ -22,11 +20,20 @@ I build practical solutions across **data analytics, business analysis, full-sta
 
 ---
 
-## Recruiter Snapshot
+## Quick Highlights
+
+| I Build | I Analyze | I Document |
+|---|---|---|
+| Full-stack web applications, dashboards, and workflow systems | Business data, customer behavior, sales performance, and ML outputs | Requirements, system flows, project plans, reports, and user-focused solutions |
+
+---
+
+## Professional Snapshot
 
 | Area | Details |
 |---|---|
-| **Target Roles** | Business Analyst Intern, Data Analyst Intern, Software Engineering Intern, Project Management Intern |
+| **Career Direction** | Data Analytics, Business Analysis, Full-Stack Development, BI Reporting, Product-focused Software Solutions |
+| **Best Fit** | Teams building software or data products where business context and technical execution both matter |
 | **Core Strengths** | Requirements analysis, dashboarding, data storytelling, full-stack development, documentation, team coordination |
 | **Project Experience** | E-commerce systems, analytics pipelines, Power BI dashboards, ML web apps, accessibility tools, multilingual web apps |
 | **Technical Tools** | React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, Power BI, SQL, Python, FastAPI, dbt, Airflow |
@@ -76,13 +83,11 @@ I build practical solutions across **data analytics, business analysis, full-sta
 
 ---
 
-## GitHub Highlights
+## Creative Edge
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sarasithagalagama&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=6)
-
-</div>
+| Business Thinking | Technical Execution | Visual Communication |
+|---|---|---|
+| Understanding user needs, workflows, and decision points | Building applications, dashboards, APIs, and data pipelines | Presenting insights clearly through UI, reports, and dashboards |
 
 ---
 
