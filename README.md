@@ -2,13 +2,11 @@
 
 # Sarasitha Galagama
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Information+Systems+Engineering+Undergraduate;Data+Analytics+%7C+Business+Intelligence;Power+BI+%7C+SQL+%7C+Python+%7C+Analytics+Projects)
+### Data Analytics & Business Intelligence
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sarasitha.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarasitha.me)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@sarasithagalagama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarasithagalagama)
+Third-year Information Systems Engineering undergraduate focused on SQL, Power BI, Python, dashboards, and analytics projects.
 
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Animated contribution graph" width="720" />
+[Portfolio](https://www.sarasitha.me) · [Email](mailto:sarasithagalagama@gmail.com) · [GitHub](https://github.com/sarasithagalagama)
 
 </div>
 
@@ -27,7 +25,7 @@ My main focus is **Data Analytics and Business Intelligence**. I work with SQL, 
 | Area | Details |
 |---|---|
 | **Primary Focus** | Data Analytics & Business Intelligence |
-| **Supporting Strengths** | Business Analysis, SQL reporting, dashboard design, data storytelling, and full-stack project experience |
+| **Supporting Strengths** | Business analysis, SQL reporting, dashboard design, data storytelling, and full-stack project experience |
 | **Project Experience** | Analytics pipelines, Power BI dashboards, ML web apps, e-commerce systems, accessibility tools, multilingual web apps |
 | **Technical Tools** | Power BI, SQL, Python, PostgreSQL, Excel, dbt, Airflow, React, Next.js, Node.js, Express.js, MongoDB |
 
@@ -37,16 +35,15 @@ My main focus is **Data Analytics and Business Intelligence**. I work with SQL, 
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,spring,flutter,python,html,css,postgres,mongodb,mysql,firebase,git,github,vscode,postman,vercel,railway)
+![Tech Stack](https://skillicons.dev/icons?i=python,postgres,mysql,js,ts,react,nextjs,nodejs,express,java,spring,flutter,html,css,mongodb,firebase,git,github,vscode,postman,vercel,railway)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </div>
 
@@ -87,8 +84,6 @@ My main focus is **Data Analytics and Business Intelligence**. I work with SQL, 
 
 <div align="center">
 
-### Let's connect
-
-[Portfolio](https://www.sarasitha.me) • [Email](mailto:sarasithagalagama@gmail.com) • [GitHub](https://github.com/sarasithagalagama)
+[Portfolio](https://www.sarasitha.me) · [Email](mailto:sarasithagalagama@gmail.com) · [GitHub](https://github.com/sarasithagalagama)
 
 </div>
