@@ -18,7 +18,7 @@ Third-year Information Systems Engineering undergraduate focused on analytics, d
 
 Third-year **BSc (Hons) Information Technology undergraduate** specializing in **Information Systems Engineering at SLIIT**.
 
-My main focus is **Data Analytics and Business Intelligence**. I like working with SQL, Power BI, Python, and analytics tools to turn messy data into clear insights, dashboards, and reports that actually make sense. I also enjoy building practical web applications when the data needs a good home.
+My main focus is **Data Analytics and Business Intelligence**. I work with SQL, Power BI, Python, and analytics tools to create dashboards, reports, and insights from data. I also have experience building web applications through academic and personal projects.
 
 ---
 
@@ -77,10 +77,10 @@ My main focus is **Data Analytics and Business Intelligence**. I like working wi
 
 ## What I Bring
 
-- Strong focus on analytics, dashboards, reporting, and business insight generation
-- Experience with SQL, Power BI, Python, data cleaning, data visualization, and ML-based projects
-- Ability to understand business requirements and translate them into useful technical solutions
-- Software engineering background that supports end-to-end data and web product development
+- Experience in data analytics, dashboarding, reporting, and data visualization
+- Working knowledge of SQL, Power BI, Python, Excel, and PostgreSQL
+- Ability to understand requirements and present data in a clear, useful way
+- Web development experience from academic and personal projects
 
 ---
 
