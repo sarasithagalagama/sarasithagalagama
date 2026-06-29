@@ -37,7 +37,7 @@ I build practical solutions across **data analytics, business analysis, full-sta
 | **Career Direction** | Data Analytics, Business Analysis, Full-Stack Development, BI Reporting, Product-focused Software Solutions |
 | **Best Fit** | Teams building software or data products where business context and technical execution both matter |
 | **Core Strengths** | Requirements analysis, dashboarding, data storytelling, full-stack development, documentation, team coordination |
-| **Project Experience** | E-commerce systems, analytics pipelines, Power BI dashboards, ML web apps, accessibility tools, multilingual web apps, interactive frontend games |
+| **Project Experience** | E-commerce systems, analytics pipelines, Power BI dashboards, ML web apps, accessibility tools, multilingual web apps |
 | **Technical Tools** | React, Next.js, Node.js, Express.js, PostgreSQL, MongoDB, Power BI, SQL, Python, FastAPI, dbt, Airflow |
 
 ---
@@ -71,7 +71,6 @@ I build practical solutions across **data analytics, business analysis, full-sta
 | [The P.A.T.H. - Political Alignment Testing Hub](https://github.com/sarasithagalagama/The_P.A.T.H) | Production-ready trilingual political compass web app for Sri Lanka with economic/social axis scoring and localized result matching. | Next.js 16, Tailwind CSS v4, Chart.js, next-intl, Vercel OG, Shadcn/UI |
 | [HueFlow - Accessible Brand Color Studio](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Color system tool for creating accessible brand palettes with contrast checking, reusable color systems, and a clean product-focused UI. | TypeScript, React, Accessibility, UI/UX |
 | Explore Sri Lanka With Us | High-performance travel web application showcasing Sri Lanka as a destination, with a focus on immersive UX, SEO, and full-stack performance. | React 18, Tailwind CSS, Node.js, Express.js |
-| Classic Arcade Maze Game | Interactive browser game with grid-based movement, collectible items, enemy behavior, collision handling, and a retro-style game interface. | JavaScript, HTML, CSS, Game Logic |
 
 ### Data, Analytics & Machine Learning Projects
 
@@ -97,7 +96,7 @@ I build practical solutions across **data analytics, business analysis, full-sta
 ## What I Bring
 
 - Ability to connect business requirements with practical technical solutions
-- Experience across full-stack development, data analytics, BI reporting, ML applications, and interactive frontend projects
+- Experience across full-stack development, data analytics, BI reporting, and ML applications
 - Strong documentation, dashboarding, data storytelling, and system analysis skills
 - Project work covering customer-facing products, admin workflows, analytics pipelines, and decision-support dashboards
 
