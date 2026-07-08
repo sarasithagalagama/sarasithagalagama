@@ -75,7 +75,7 @@ I am currently working with **SQL, Power BI, Python, PostgreSQL, React, Node.js,
 | [The P.A.T.H.](https://github.com/sarasithagalagama/The_P.A.T.H) | Trilingual political alignment web app with scoring logic, localized content, and result visualization. | Next.js, Tailwind CSS, Chart.js, next-intl |
 | [HueFlow](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Accessible color system tool for creating brand palettes and checking contrast. | TypeScript, React, Accessibility, UI/UX |
 | [Explore Sri Lanka With Us](https://github.com/sarasithagalagama/explore_srilanka_with_us) | Travel web application focused on destination content, user experience, and full-stack structure. | React, Tailwind CSS, Node.js, Express.js |
-| [Vehicle Service System](https://github.com/sarasithagalagama/vehicle-service-system) | Vehicle service management application built as a Java/Spring Boot project. | Java, Spring Boot, Thymeleaf, SQL |
+| [DTD Motors](https://github.com/sarasithagalagama/dtdmotors) | Modern vehicle sourcing and export website for a UK-based motor trading business, built with a responsive UI and structured service content. | React, TypeScript, TanStack Start, TanStack Router, Tailwind CSS |
 
 ---
 
