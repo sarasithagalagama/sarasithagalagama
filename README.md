@@ -55,27 +55,27 @@ I am currently working with **SQL, Power BI, Python, PostgreSQL, React, Node.js,
 
 ## Featured Projects
 
-### Data, Analytics & Machine Learning
+### Completed / Portfolio-Ready Projects
 
 | Project | What It Covers | Technologies |
 |---|---|---|
-| [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | Analytics pipeline for sales data, covering PostgreSQL loading, dbt transformations, workflow scheduling, and dashboard-ready outputs. | PostgreSQL, dbt Core, Apache Airflow, SQL, Lightdash |
+| [DTD Motors](https://github.com/sarasithagalagama/dtdmotors) | Modern vehicle sourcing and export website for a UK-based motor trading business, built with a responsive UI and structured service content. | React, TypeScript, TanStack Start, TanStack Router, Tailwind CSS |
+| [Methsara Publications - E-commerce Bookstore](https://github.com/sarasithagalagama/Methsara-Publications) | Full-stack bookstore with catalogue, cart, wishlist, checkout, order management, inventory workflows, authentication, and admin dashboard. | React, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB |
+| [The P.A.T.H.](https://github.com/sarasithagalagama/The_P.A.T.H) | Trilingual political alignment web app with scoring logic, localized content, and result visualization. | Next.js, Tailwind CSS, Chart.js, next-intl |
 | [Sales Analysis & Performance Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard) | Power BI dashboard for sales, profit, customers, payment modes, product categories, and top-selling products. | Power BI, Power Query, DAX, Data Modeling |
 | [Customer Behavior Data Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | Analysis of shopping data to identify purchasing patterns, revenue insights, and customer segments. | Power BI, SQL, Python, pandas, NumPy |
 | [LoanWise LK](https://github.com/sarasithagalagama/LoanWise-LK) | Loan eligibility prediction app with risk classification, approval probability, and stakeholder-focused analytics. | Python, scikit-learn, FastAPI, React, Tailwind CSS |
 | [Fake News Detection Model](https://github.com/sarasithagalagama/fake-news-classifier) | Text classification project using TF-IDF and Logistic Regression with model evaluation and a simple app interface. | Python, scikit-learn, NLTK, pandas, Streamlit |
 | [Weather & Air Quality Power BI Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard) | Dashboard using weather and air quality API data to compare climatic zones and environmental conditions in Sri Lanka. | Power BI, DAX, Power Query, JSON |
 | [PotatoPulse](https://github.com/sarasithagalagama/PotatoPulse) | Potato disease detection app using image classification and a simple Streamlit interface. | Python, TensorFlow, Streamlit, CNN |
+| [HueFlow](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Accessible color system tool for creating brand palettes and checking contrast. | TypeScript, React, Accessibility, UI/UX |
+| [Explore Sri Lanka With Us](https://github.com/sarasithagalagama/explore_srilanka_with_us) | Travel web application focused on destination content, user experience, and full-stack structure. | React, Tailwind CSS, Node.js, Express.js |
 
-### Software & Web Development
+### Data Engineering Practice
 
 | Project | What It Covers | Technologies |
 |---|---|---|
-| [Methsara Publications - E-commerce Bookstore](https://github.com/sarasithagalagama/Methsara-Publications) | Full-stack bookstore with catalogue, cart, wishlist, checkout, order management, inventory workflows, authentication, and admin dashboard. | React, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB |
-| [The P.A.T.H.](https://github.com/sarasithagalagama/The_P.A.T.H) | Trilingual political alignment web app with scoring logic, localized content, and result visualization. | Next.js, Tailwind CSS, Chart.js, next-intl |
-| [HueFlow](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Accessible color system tool for creating brand palettes and checking contrast. | TypeScript, React, Accessibility, UI/UX |
-| [Explore Sri Lanka With Us](https://github.com/sarasithagalagama/explore_srilanka_with_us) | Travel web application focused on destination content, user experience, and full-stack structure. | React, Tailwind CSS, Node.js, Express.js |
-| [DTD Motors](https://github.com/sarasithagalagama/dtdmotors) | Modern vehicle sourcing and export website for a UK-based motor trading business, built with a responsive UI and structured service content. | React, TypeScript, TanStack Start, TanStack Router, Tailwind CSS |
+| [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | Analytics pipeline practice project covering PostgreSQL loading, dbt transformations, workflow scheduling, and dashboard-ready outputs. | PostgreSQL, dbt Core, Apache Airflow, SQL, Lightdash |
 
 ---
 
