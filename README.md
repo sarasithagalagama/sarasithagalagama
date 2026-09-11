@@ -8,10 +8,6 @@ I build practical software and data-driven solutions with a focus on clean desig
 
 [Portfolio](https://www.sarasitha.me) · [Projects](https://www.sarasitha.me/projects) · [GitHub](https://github.com/sarasithagalagama) · [Email](mailto:sarasithagalagama@gmail.com)
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=sarasithagalagama&label=Profile%20Views&color=555555&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
