@@ -2,121 +2,144 @@
 
 # Sarasitha Galagama
 
-### Information Systems Engineering • Data Analytics • Full-Stack Projects
+**I build useful things on the internet.**  
+Sometimes with data. Sometimes with code. Sometimes because the UI annoyed me.
 
-Third-year Information Systems Engineering undergraduate building practical projects across analytics, business intelligence, web development, and machine learning.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sarasitha.me-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarasitha.me)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasithagalagama@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@sarasithagalagama-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarasithagalagama)
+[website](https://www.sarasitha.me) · [projects](https://www.sarasitha.me/projects) · [github](https://github.com/sarasithagalagama) · [email](mailto:sarasithagalagama@gmail.com)
 
 </div>
 
 ---
 
-## About
+```txt
+sarasitha@github:~$ whoami
 
-I am a third-year **BSc (Hons) Information Technology undergraduate** specializing in **Information Systems Engineering at SLIIT**.
+information systems engineering student
+developer + data enthusiast + designer
+currently turning random ideas into repositories
+```
 
-My main interests are **data analytics, business intelligence, full-stack development, and machine learning**. I build projects that turn data into reports, dashboards, and simple decision-support tools, while also improving my software development skills through web and application projects.
+I'm a third-year **Information Systems Engineering** undergraduate at SLIIT.
 
-I am currently working with **SQL, Power BI, Python, PostgreSQL, React, Node.js, dbt, and Apache Airflow** through academic, personal, and practice projects.
+Most of the things I build live somewhere between **software, data, machine learning and design**.
+
+I enjoy taking an idea from:
+
+`"this could be useful"`
+
+to
+
+`"okay why does this actually work"`
+
+and eventually to
+
+`git push origin main`
 
 ---
 
-## Focus Areas
+## things I've been building
 
-| Area | What I Work On |
-|---|---|
-| **Data Analytics & BI** | Dashboards, reports, data cleaning, DAX, SQL analysis, and visual storytelling |
-| **Data Engineering Basics** | PostgreSQL, dbt transformations, Airflow workflow scheduling, and pipeline structure |
-| **Machine Learning** | Classification models, prediction apps, model evaluation, and Streamlit/FastAPI demos |
-| **Full-Stack Development** | React, Next.js, Node.js, Express.js, MongoDB, REST APIs, and responsive interfaces |
+| | Project | What's inside |
+|---|---|---|
+| **01** | [DTD Motors](https://github.com/sarasithagalagama/dtdmotors) | Vehicle sourcing & export platform built with React, TypeScript and Tailwind |
+| **02** | [Methsara Publications](https://github.com/sarasithagalagama/Methsara-Publications) | Full-stack bookstore with orders, inventory, authentication and admin workflows |
+| **03** | [LoanWise LK](https://github.com/sarasithagalagama/LoanWise-LK) | Loan eligibility prediction, risk classification and analytics |
+| **04** | [Customer Behavior Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | SQL + Python + Power BI analysis of customer purchasing behaviour |
+| **05** | [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | PostgreSQL, dbt and Airflow analytics pipeline |
+| **06** | [The P.A.T.H.](https://github.com/sarasithagalagama/The_P.A.T.H) | Trilingual political alignment application with scoring and visualization |
+| **07** | [PotatoPulse](https://github.com/sarasithagalagama/PotatoPulse) | CNN-powered potato disease detection because apparently potatoes needed AI too |
+| **08** | [HueFlow](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Accessible brand colour studio and contrast toolkit |
+
+There's more hiding in my repositories.
 
 ---
 
-## Tech Stack
+## my usual toolbox
 
 <div align="center">
 
-**Data, Analytics & ML**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Web, App & Backend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
 
 </div>
 
 ---
 
-## Featured Projects
+## the pattern
 
-### Completed / Portfolio-Ready Projects
+```mermaid
+flowchart LR
+    A[idea] --> B[prototype]
+    B --> C[why is this broken]
+    C --> D[fix it]
+    D --> E[make it look better]
+    E --> F[ship]
+    F --> A
+```
 
-| Project | What It Covers | Technologies |
-|---|---|---|
-| [DTD Motors](https://github.com/sarasithagalagama/dtdmotors) | Modern vehicle sourcing and export website for a UK-based motor trading business, built with a responsive UI and structured service content. | React, TypeScript, TanStack Start, TanStack Router, Tailwind CSS |
-| [Methsara Publications - E-commerce Bookstore](https://github.com/sarasithagalagama/Methsara-Publications) | Full-stack bookstore with catalogue, cart, wishlist, checkout, order management, inventory workflows, authentication, and admin dashboard. | React, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB |
-| [The P.A.T.H.](https://github.com/sarasithagalagama/The_P.A.T.H) | Trilingual political alignment web app with scoring logic, localized content, and result visualization. | Next.js, Tailwind CSS, Chart.js, next-intl |
-| [Sales Analysis & Performance Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard) | Power BI dashboard for sales, profit, customers, payment modes, product categories, and top-selling products. | Power BI, Power Query, DAX, Data Modeling |
-| [Customer Behavior Data Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | Analysis of shopping data to identify purchasing patterns, revenue insights, and customer segments. | Power BI, SQL, Python, pandas, NumPy |
-| [LoanWise LK](https://github.com/sarasithagalagama/LoanWise-LK) | Loan eligibility prediction app with risk classification, approval probability, and stakeholder-focused analytics. | Python, scikit-learn, FastAPI, React, Tailwind CSS |
-| [Fake News Detection Model](https://github.com/sarasithagalagama/fake-news-classifier) | Text classification project using TF-IDF and Logistic Regression with model evaluation and a simple app interface. | Python, scikit-learn, NLTK, pandas, Streamlit |
-| [Weather & Air Quality Power BI Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard) | Dashboard using weather and air quality API data to compare climatic zones and environmental conditions in Sri Lanka. | Power BI, DAX, Power Query, JSON |
-| [PotatoPulse](https://github.com/sarasithagalagama/PotatoPulse) | Potato disease detection app using image classification and a simple Streamlit interface. | Python, TensorFlow, Streamlit, CNN |
-| [HueFlow](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Accessible color system tool for creating brand palettes and checking contrast. | TypeScript, React, Accessibility, UI/UX |
-| [Explore Sri Lanka With Us](https://github.com/sarasithagalagama/explore_srilanka_with_us) | Travel web application focused on destination content, user experience, and full-stack structure. | React, Tailwind CSS, Node.js, Express.js |
-
-### Data Engineering Practice
-
-| Project | What It Covers | Technologies |
-|---|---|---|
-| [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | Analytics pipeline practice project covering PostgreSQL loading, dbt transformations, workflow scheduling, and dashboard-ready outputs. | PostgreSQL, dbt Core, Apache Airflow, SQL, Lightdash |
+Pretty accurate.
 
 ---
 
-## What I Am Improving
+## somewhere between
 
-- Writing cleaner SQL queries and building better analytical reports
-- Designing clearer Power BI dashboards and data stories
-- Building structured analytics pipelines with PostgreSQL, dbt, and Airflow
-- Improving full-stack project quality through better APIs, UI structure, and README documentation
-- Practicing machine learning projects with clear evaluation and simple deployment-ready demos
+```text
+data analysis        ████████░░
+full-stack dev       █████████░
+machine learning     ███████░░░
+UI / UX              ████████░░
+sleep schedule       ██░░░░░░░░
+```
+
+I like projects where I can work across more than one layer — analyze the data, build the backend, create the interface and then spend an unreasonable amount of time making the spacing look right.
+
+---
+
+## a few more experiments
+
+**[Sales Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard)**  
+Power BI sales and performance analytics.
+
+**[Sri Lanka Weather Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard)**  
+Weather and air-quality data transformed into an interactive BI dashboard.
+
+**[Fake News Classifier](https://github.com/sarasithagalagama/fake-news-classifier)**  
+NLP text classification using TF-IDF and Logistic Regression.
+
+**[Explore Sri Lanka With Us](https://github.com/sarasithagalagama/explore_srilanka_with_us)**  
+A full-stack travel platform built around Sri Lankan destinations.
+
+---
+
+## github, according to github
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
 
 ---
 
 <div align="center">
 
-[Portfolio](https://www.sarasitha.me) · [Email](mailto:sarasithagalagama@gmail.com) · [GitHub](https://github.com/sarasithagalagama)
+### still building.
+
+Not everything needs to become a startup.  
+Sometimes making something cool is enough.
+
+**[sarasitha.me](https://www.sarasitha.me)**
 
 </div>
