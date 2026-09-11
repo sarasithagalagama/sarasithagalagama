@@ -2,86 +2,72 @@
 
 # Sarasitha Galagama
 
-**I build useful things on the internet.**  
-Sometimes with data. Sometimes with code. Sometimes because the UI annoyed me.
+### Information Systems Engineering Undergraduate | Data Analytics | Full-Stack Development
 
-[website](https://www.sarasitha.me) · [projects](https://www.sarasitha.me/projects) · [github](https://github.com/sarasithagalagama) · [email](mailto:sarasithagalagama@gmail.com)
+I build practical software and data-driven solutions with a focus on clean design, usability, and real-world value.
+
+[Portfolio](https://www.sarasitha.me) · [Projects](https://www.sarasitha.me/projects) · [GitHub](https://github.com/sarasithagalagama) · [Email](mailto:sarasithagalagama@gmail.com)
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=sarasithagalagama&label=profile%20views&color=555555&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=sarasithagalagama&label=Profile%20Views&color=555555&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-```txt
-sarasitha@github:~$ whoami
+## About Me
 
-information systems engineering student
-developer + data enthusiast + designer
-currently turning random ideas into repositories
-```
+I am a third-year **BSc (Hons) Information Technology undergraduate**, specializing in **Information Systems Engineering at SLIIT**.
 
-I'm a third-year **Information Systems Engineering** undergraduate at SLIIT.
+My work spans **data analytics, business intelligence, full-stack development, machine learning, and UI/UX**. I enjoy building complete solutions — from working with data and backend logic to designing interfaces and deploying usable applications.
 
-Most of the things I build live somewhere between **software, data, machine learning and design**.
-
-I enjoy taking an idea from:
-
-`"this could be useful"`
-
-to
-
-`"okay why does this actually work"`
-
-and eventually to
-
-`git push origin main`
+I am particularly interested in projects that combine **technology, analytics, and thoughtful product design**.
 
 ---
 
-## things I've been building
+## Featured Projects
 
-| | Project | What's inside |
+| Project | Description | Technologies |
 |---|---|---|
-| **01** | [DTD Motors](https://github.com/sarasithagalagama/dtdmotors) | Vehicle sourcing & export platform built with React, TypeScript and Tailwind |
-| **02** | [Methsara Publications](https://github.com/sarasithagalagama/Methsara-Publications) | Full-stack bookstore with orders, inventory, authentication and admin workflows |
-| **03** | [LoanWise LK](https://github.com/sarasithagalagama/LoanWise-LK) | Loan eligibility prediction, risk classification and analytics |
-| **04** | [Customer Behavior Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | SQL + Python + Power BI analysis of customer purchasing behaviour |
-| **05** | [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | PostgreSQL, dbt and Airflow analytics pipeline |
-| **06** | [The P.A.T.H.](https://github.com/sarasithagalagama/The_P.A.T.H) | Trilingual political alignment application with scoring and visualization |
-| **07** | [PotatoPulse](https://github.com/sarasithagalagama/PotatoPulse) | CNN-powered potato disease detection because apparently potatoes needed AI too |
-| **08** | [HueFlow](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) | Accessible brand colour studio and contrast toolkit |
-
-There's more hiding in my repositories.
+| [DTD Motors](https://github.com/sarasithagalagama/dtdmotors) | Modern vehicle sourcing and export website for a UK-based motor trading business. | React, TypeScript, Tailwind CSS |
+| [Methsara Publications](https://github.com/sarasithagalagama/Methsara-Publications) | Full-stack e-commerce bookstore with authentication, inventory, orders, checkout, and admin workflows. | React, Node.js, Express.js, MongoDB |
+| [LoanWise LK](https://github.com/sarasithagalagama/LoanWise-LK) | Loan eligibility prediction system with risk classification, approval probability, and analytics. | Python, scikit-learn, FastAPI, React |
+| [Customer Behavior Analysis](https://github.com/sarasithagalagama/customer-behavior-data-analyst-SQL-Python-PowerBI) | End-to-end analysis of customer purchasing behavior, segmentation, and revenue trends. | SQL, Python, Power BI |
+| [Sales Analytics Pipeline](https://github.com/sarasithagalagama/Sales-Analytics-Pipeline) | Data engineering practice project covering ingestion, transformation, orchestration, and analytics-ready outputs. | PostgreSQL, dbt, Apache Airflow, SQL |
+| [PotatoPulse](https://github.com/sarasithagalagama/PotatoPulse) | Image classification application for potato disease detection using deep learning. | Python, TensorFlow, CNN, Streamlit |
 
 ---
 
-## my usual toolbox
+## Technical Skills
 
 <div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />
-</p>
+### Languages & Data
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42" />
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />
+
+### Development
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42" />
+
+### Analytics, ML & Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
+
+<br /><br />
 
 <img src="https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
 <img src="https://img.shields.io/badge/dbt-111111?style=flat-square&logo=dbt&logoColor=FF694B" alt="dbt" />
@@ -91,53 +77,17 @@ There's more hiding in my repositories.
 
 ---
 
-## the pattern
+## Additional Projects
 
-```mermaid
-flowchart LR
-    A[idea] --> B[prototype]
-    B --> C[why is this broken]
-    C --> D[fix it]
-    D --> E[make it look better]
-    E --> F[ship]
-    F --> A
-```
-
-Pretty accurate.
+- [Sales Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard) — Sales and performance analytics with Power BI
+- [Sri Lanka Weather Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard) — Weather and air-quality analysis and visualization
+- [Fake News Classifier](https://github.com/sarasithagalagama/fake-news-classifier) — NLP text classification using TF-IDF and Logistic Regression
+- [HueFlow](https://github.com/sarasithagalagama/Hueflow-Accessible-Brand-Color-Studio) — Accessible brand color system and contrast toolkit
+- [The P.A.T.H.](https://github.com/sarasithagalagama/The_P.A.T.H) — Trilingual political alignment application with scoring and visualization
 
 ---
 
-## somewhere between
-
-```text
-data analysis        ████████░░
-full-stack dev       █████████░
-machine learning     ███████░░░
-UI / UX              ████████░░
-sleep schedule       ██░░░░░░░░
-```
-
-I like projects where I can work across more than one layer — analyze the data, build the backend, create the interface and then spend an unreasonable amount of time making the spacing look right.
-
----
-
-## a few more experiments
-
-**[Sales Dashboard](https://github.com/sarasithagalagama/Sales-Dashboard)**  
-Power BI sales and performance analytics.
-
-**[Sri Lanka Weather Dashboard](https://github.com/sarasithagalagama/Sri-Lanka-Weather-Dashboard)**  
-Weather and air-quality data transformed into an interactive BI dashboard.
-
-**[Fake News Classifier](https://github.com/sarasithagalagama/fake-news-classifier)**  
-NLP text classification using TF-IDF and Logistic Regression.
-
-**[Explore Sri Lanka With Us](https://github.com/sarasithagalagama/explore_srilanka_with_us)**  
-A full-stack travel platform built around Sri Lankan destinations.
-
----
-
-## github, according to github
+## GitHub Statistics
 
 <div align="center">
 
@@ -155,11 +105,10 @@ A full-stack travel platform built around Sri Lankan destinations.
 
 <div align="center">
 
-### still building.
+### Let's Connect
 
-Not everything needs to become a startup.  
-Sometimes making something cool is enough.
+I am always interested in learning, building, and collaborating on meaningful software and data projects.
 
-**[sarasitha.me](https://www.sarasitha.me)**
+[Portfolio](https://www.sarasitha.me) · [Email](mailto:sarasithagalagama@gmail.com) · [GitHub](https://github.com/sarasithagalagama)
 
 </div>
