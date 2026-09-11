@@ -7,6 +7,10 @@ Sometimes with data. Sometimes with code. Sometimes because the UI annoyed me.
 
 [website](https://www.sarasitha.me) · [projects](https://www.sarasitha.me/projects) · [github](https://github.com/sarasithagalagama) · [email](mailto:sarasithagalagama@gmail.com)
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=sarasithagalagama&label=profile%20views&color=555555&style=flat-square" alt="profile views" />
+
 </div>
 
 ---
@@ -58,18 +62,30 @@ There's more hiding in my repositories.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42" />
+</p>
+
+<img src="https://img.shields.io/badge/Power%20BI-111111?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+<img src="https://img.shields.io/badge/dbt-111111?style=flat-square&logo=dbt&logoColor=FF694B" alt="dbt" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-111111?style=flat-square&logo=apacheairflow" alt="Apache Airflow" />
 
 </div>
 
@@ -125,9 +141,13 @@ A full-stack travel platform built around Sri Lankan destinations.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sarasithagalagama&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sarasitha's GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarasithagalagama&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=sarasithagalagama&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
